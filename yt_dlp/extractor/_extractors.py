@@ -827,6 +827,7 @@ from .huya import (
 )
 from .hypem import HypemIE
 from .hypergryph import MonsterSirenHypergryphMusicIE
+from .hypnotube import HypnotubeIE
 from .hytale import HytaleIE
 from .icareus import IcareusIE
 from .ichinanalive import (
